@@ -11,8 +11,8 @@ A small full-stack blog app built to practice REST APIs and debugging.
 
 ## Screenshots
 
-![Home page with posts](docs/home.png)
-![Validation error](docs/validation-error.png)
+![Home page with posts](successful post/home.png)
+![Validation error](screenshots/failedtomakepostmissingcategory.png)
 
 ## Run locally
 
