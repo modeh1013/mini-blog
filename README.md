@@ -9,6 +9,11 @@ A small full-stack blog app built to practice REST APIs and debugging.
 - JSON API with validation and proper status codes (201, 400, 401, 405)
 - CORS configured between the React app and the Django API
 
+## Screenshots
+
+![Home page with posts](docs/home.png)
+![Validation error](docs/validation-error.png)
+
 ## Run locally
 
 Backend:

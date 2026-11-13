@@ -42,7 +42,7 @@ def create_post(request):
         )
 
         return Response(
-            {"message": "Post created successfully", "post": post()},
+            {"message": "Post created successfully", "post": post.to_dict()},
             status=status.HTTP_201_CREATED,
         )
 
